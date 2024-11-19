@@ -13,6 +13,8 @@
     }
     cl{
         color:gray ; font-size:20px }
+        u{ text-alin:Right; color: ; font-size: 12
+        }
   </style>
 </head>
 <body>
@@ -31,9 +33,11 @@
   
 <cl >
 
-یہاں پر شو ہیں نہیں ہو رہا
 
-  اس کی  کیا وجہ ہو سکتی ہے 
-  
+## What is colon andit is work
+  - the colon is (copy) just your are colon the any Repositories.
+  -  all file you are downlod in your local system and  easy to use. 
+  -  <u>  کسی بھی فولڈر کو کاپی کرنے کو کالون کہتے ہیں </u>
+
 
   </cl>
